@@ -4,7 +4,7 @@
 <h4 align="center">Tic Tac Toe (tris) game for Start2Impact's Master Full Stack Developer JavaScript Basics project.</h4>
 <h5 align="center">The game works like a normal Tic Tac Toe, so to win you need to place three identical symbols adjacent to each other or diagonally</h5>
 <p align="center">
-    <a href="http://tris.dariodinicuolo.it" target="_blank">
+    <a href="https://tris.dariodinicuolo.it" target="_blank">
         <strong>View Demo »</strong>
     </a>
     <br />
