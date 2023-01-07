@@ -1,29 +1,63 @@
-# tictactoe
+<span id="readme-top"></span>
+<h1 align="center">Tic Tac Toe - Vue.JS</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<h4 align="center">Tic Tac Toe (tris) game for Start2Impact's Master Full Stack Developer JavaScript Basics project.</h4>
+<h5 align="center">The game works like a normal Tic Tac Toe, so to win you need to place three identical symbols adjacent to each other or diagonally</h5>
+<p align="center">
+    <a href="http://tris.dariodinicuolo.it" target="_blank">
+        <strong>View Demo »</strong>
+    </a>
+    <br />
+    <br />
+    <a href="https://github.com/dariodini/TicTacToe-Vue.JS">
+        Explore repository
+    </a>
+    ·
+    <a href="https://github.com/dariodini/TicTacToe-Vue.JS/issues">
+        Report Bug
+    </a>
+    ·
+    <a href="https://github.com/dariodini/TicTacToe-Vue.JS/issues">
+        Request Feature
+    </a>
+    <br>
+    <br>
+    <img alt="Tic tac toe image" src="https://github.com/dariodini/TicTacToe-Vue.JS/blob/master/TicTacToe.png" width="750">
+</p>
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p align="center">
+    This is how it look like:
+    <br>
+    <img alt="Tic tac toe game" src="https://github.com/dariodini/TicTacToe-Vue.JS/blob/master/TicTacToeGif.gif" width="750">  
+</p>
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Functionality
 
-## Project Setup
+* The game simulates a game as if the two players could take turns, so **player X always starts**
+* When someone wins or the game ends in a draw, **through the button it is possible to reset everything**
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+### Built With
 
-### Compile and Minify for Production
+* Vue.JS
+* HTML & CSS
 
-```sh
-npm run build
-```
+***
+
+### Contact
+
+* [Linkedin](https://it.linkedin.com/in/dariodinicuolo)
+* [Facebook](https://www.facebook.com/dariodinicuoloo/)
+
+
+Project Link: [https://github.com/dariodini/TicTacToe-Vue.JS](https://github.com/dariodini/TicTacToe-Vue.JS)
+
+<br>
+
+<p align="right">(<a href="#readme-top">Back to top!</a>)</p>
